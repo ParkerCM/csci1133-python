@@ -26,6 +26,3 @@ def drawStar():
     turtle.left(144)
     turtle.forward(l)
     turtle.left(144)
-
-computeWC()
-drawStar()
